@@ -1,7 +1,8 @@
+print('area of rectangle')
 print('enter length')
 length= int(input())
 print('enter breadth')
 breadth= int(input())
-print('area= ' ,length*breadth)
+print('area ' ,length*breadth)
 
 
