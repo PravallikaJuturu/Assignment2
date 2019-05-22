@@ -1,3 +1,3 @@
 print('enter string')
 a=input()
-print('length of string ',len(a))
+print('length of string =',len(a))
