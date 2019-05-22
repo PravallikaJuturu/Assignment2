@@ -1,4 +1,4 @@
-print('enter string to change')
+print('enter string')
 a=input()
 b=len(a)
 if b<3:
